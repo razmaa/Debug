@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "671AD3C7-1EF8-4E76-A11D-5EC87BAACFC3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E21439F-400C-4494-8C31-406F67990FED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestProject/Scenes/News/NewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "newsFetched(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E21439F-400C-4494-8C31-406F67990FED - c4a2b53a8ca1c97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestProject.NewsViewController.newsFetched(Swift.Array&lt;TestProject.News&gt;) -&gt; ()"
+                  moduleName = "TestProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikarazmadze/Desktop/assigments/Assigment22/TestProject/TestProject/Scenes/News/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "8E21439F-400C-4494-8C31-406F67990FED - c4a2b53a8ca1c97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestProject.NewsViewController.newsFetched(Swift.Array&lt;TestProject.News&gt;) -&gt; ()"
+                  moduleName = "TestProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikarazmadze/Desktop/assigments/Assigment22/TestProject/TestProject/Scenes/News/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
